@@ -6,5 +6,6 @@ This repository contains links to my individual projects. Click on a project bel
 - [React](https://github.com/rhit-vestjejj/React)
 - [Resume](https://github.com/rhit-vestjejj/Resume)
 - [WebScraping](https://github.com/rhit-vestjejj/WebScraping)
+- [YoutubeAnalysis](https://github.com/rhit-vestjejj/YoutubeAnalysis)
 
 Each project is maintained separately as its own repository.
