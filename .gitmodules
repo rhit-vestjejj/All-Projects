@@ -1,9 +1,0 @@
-[submodule "React"]
-	path = React
-	url = https://github.com/YOUR_USERNAME/React
-[submodule "Resume"]
-	path = Resume
-	url = https://github.com/YOUR_USERNAME/Resume
-[submodule "WebScraping"]
-	path = WebScraping
-	url = https://github.com/YOUR_USERNAME/WebScraping
