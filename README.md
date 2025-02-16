@@ -5,7 +5,6 @@ This repository contains links to my individual projects. Click on a project bel
 - [AI](https://github.com/rhit-vestjejj/AI)
 - [React](https://github.com/rhit-vestjejj/React)
 - [Resume](https://github.com/rhit-vestjejj/Resume)
-- [Testing](https://github.com/rhit-vestjejj/Testing)
 - [WebScraping](https://github.com/rhit-vestjejj/WebScraping)
 
 Each project is maintained separately as its own repository.
